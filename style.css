@@ -1,0 +1,14 @@
+html {
+    box-sizing: border-box;
+    height: 100%;
+}
+
+body {
+    align-items: center;
+    display: flex;
+    background: linear-gradient(320deg, lightblue, purple, grey);
+    font-family:'Dosis', sans-serif;
+    font-display: swap;
+    height: inherit;
+    justify-content: center;
+}
